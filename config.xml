@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.taxisinleightonbuzzard.dnrtaxisplus" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
-	<name>D&R Taxis Plus</name>
+	<name>D&amp;R Taxis Plus</name>
 	<description>
 		Taxis in Leighton Buzzard. With the app you can access the full functionality of the website, including getting a price quote for your journey and booking online securely when connected to the internet. 
 	</description>
 
 	<author email="dnrtaxisplus@gmail.com" href="https://taxisinleightonbuzzard.com">
-	   D&R Taxis Plus app designed by Bigwheel Web Design. Contact D&R Taxis Plus for help.
+	   D&amp;R Taxis Plus app designed by Bigwheel Web Design. Contact D&R Taxis Plus for help.
 	</author>
 
 	<preference name="phonegap-version" value="cli-6.0.0" />
