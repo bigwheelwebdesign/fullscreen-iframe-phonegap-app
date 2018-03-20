@@ -8,6 +8,5 @@
 	<author email="dnrtaxisplus@gmail.com" href="https://taxisinleightonbuzzard.com">
 	   D&amp;R Taxis Plus app designed by Bigwheel Web Design. Contact D&amp;R Taxis Plus for help.
 	</author>
-
-	  <icon src="/android-chrome-256x256.png" />
+	  <preference name="phonegap-version" value="cli-8.0.0" />
 </widget>
