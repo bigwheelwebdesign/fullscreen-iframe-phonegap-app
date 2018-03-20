@@ -9,29 +9,5 @@
 	   D&amp;R Taxis Plus app designed by Bigwheel Web Design. Contact D&amp;R Taxis Plus for help.
 	</author>
 	  <preference name="phonegap-version" value="cli-8.0.0" />
-	      <platform name="android">
-        <!--
-            ldpi    : 36x36 px
-            mdpi    : 48x48 px
-            hdpi    : 72x72 px
-            xhdpi   : 96x96 px
-            xxhdpi  : 144x144 px
-            xxxhdpi : 192x192 px
-        -->
-        <icon src="ldpi.png" density="ldpi" />
-        <icon src="mdpi.png" density="mdpi" />
-        <icon src="hdpi.png" density="hdpi" />
-        <icon src="xhdpi.png" density="xhdpi" />
-        <icon src="xxhdpi.png" density="xxhdpi" />
-        <icon src="xxxhdpi.png" density="xxxhdpi" />
-    </platform>
-	    <platform name="windows">
-        <icon src="ldpi.png" target="Square30x30Logo" />
-        <icon src="mdpi.png" target="Square44x44Logo" />
-        <icon src="hdpi.png" target="Square70x70Logo" />
-        <icon src="hdpi.png" target="Square71x71Logo" />
-        <icon src="Square150x150Logo.png" target="Square150x150Logo" />
-        <icon src="Square310x310Logo.png" target="Square310x310Logo" />
-        <icon src="Wide310x150Logo.png" target="Wide310x150Logo" />
-    </platform>
+           <icon src="android-chrome-256x256.png" />
 </widget>
