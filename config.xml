@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.taxisinleightonbuzzard.dnrtaxisplus" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
+<widget id="com.taxisinleightonbuzzard.dnrtaxisapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
 	<name>D&amp;R Taxis Plus</name>
 	<description>
 		Taxis in Leighton Buzzard. With the app you can access the full functionality of the website, including getting a price quote for your journey and booking online securely when connected to the internet. 
