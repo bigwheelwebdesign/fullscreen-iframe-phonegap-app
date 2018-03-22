@@ -15,7 +15,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://taxisinleightonbuzzard.com",
+    "start_url": "/www/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
